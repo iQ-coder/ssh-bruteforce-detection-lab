@@ -3,7 +3,12 @@ in this image here we see in the log file in ubuntu how the machine was attacked
 
 
 <img width="1280" height="800" alt="image" src="https://github.com/user-attachments/assets/1bea6ae6-e6b5-4207-86fa-8d082a03cf83" />
-here is a demonstartion of how the attacker was able to make admin level modification on the machine's nginx server which could be lethal in real-woeld senarios 
+
+
+After successful SSH authentication, the attacker gained unauthorized access to the system and was able to modify critical services such as the Nginx web server. This demonstrates how compromised credentials can lead to administrative-level actions, potentially affecting system integrity, service availability, and data security.
+
+In real-world environments, such access could be used to deploy malicious content, establish persistence mechanisms, or disrupt production services.
+
 
 pinging the victime to see if connection could be established 
 <img width="958" height="519" alt="image" src="https://github.com/user-attachments/assets/d841d3d2-f2b1-42c3-a4d2-afc32766896a" />
