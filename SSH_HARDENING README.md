@@ -1,4 +1,4 @@
-<img width="674" height="484" alt="image" src="https://github.com/user-attachments/assets/1273eb5d-da4e-432a-b7a2-383f576c4458" />Objective
+Objective
 
 The purpose of this lab is to secure SSH access by implementing SSH key-based authentication and disabling password authentication, thereby mitigating brute-force attacks.
 as we saw before how dangerous are bruteforce attacks and how could they compromise one's machine ! 
